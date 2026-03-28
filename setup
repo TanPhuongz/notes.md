@@ -1,2 +1,3 @@
 chore: initialize project with Next.js 15 app router and TypeScript
 chore: set up ESLint, Prettier and Husky with commitlint
+chore: configure Tailwind CSS and shadcn/ui
