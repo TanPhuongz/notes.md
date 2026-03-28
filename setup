@@ -3,3 +3,4 @@ chore: set up ESLint, Prettier and Husky with commitlint
 chore: configure Tailwind CSS and shadcn/ui
 chore: add Docker and docker-compose for local development
 chore: set up Prisma ORM with PostgreSQL
+chore: configure environment variables and .env.example
