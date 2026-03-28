@@ -6,3 +6,4 @@ chore: set up Prisma ORM with PostgreSQL
 chore: configure environment variables and .env.example
 chore: add GitHub Actions for CI pipeline
 docs: add detailed README with project structure and tech stack
+Authentication & Authorization
