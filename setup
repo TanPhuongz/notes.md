@@ -86,3 +86,4 @@ refactor(config): centralize all configuration in one module
 style: apply consistent code formatting across project
 Documentation & Misc
 docs: update API documentation with new endpoint
+docs: add contribution guidelines and code of conduct
