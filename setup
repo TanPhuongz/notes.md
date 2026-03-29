@@ -15,3 +15,4 @@ feat(auth): implement password reset with secure token
 feat(auth): add Google OAuth2 provider
 fix(auth): resolve refresh token rotation security issue
 refactor(auth): extract auth service and improve error handling
+test(auth): add unit test for auth service and guard
