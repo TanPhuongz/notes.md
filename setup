@@ -41,3 +41,4 @@ style(ui): improve button and card component consistency
 refactor(ui): extract common hook (useDebounce, useLocalStorage)
 feat(notification): add real-time toast notification
 Backend Improvement
+refactor(api): migrate to NestJS modules and clean architecture
