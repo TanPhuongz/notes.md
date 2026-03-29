@@ -23,3 +23,4 @@ feat(user): implement user search with pagination
 fix(user): prevent email duplication on profile update
 refactor(user): improve user DTO and validation pipe
 Core Features 
+feat(project): create project entity with owner and members
