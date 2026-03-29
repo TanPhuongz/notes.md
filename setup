@@ -65,3 +65,4 @@ perf(api): add Redis caching for frequently accessed data
 perf(db): add composite indexes on task and project table
 refactor: migrate from class-validator to zod 
 Infrastructure & DevOp
+chore(infra): set up PostgreSQL with proper volume mounting
