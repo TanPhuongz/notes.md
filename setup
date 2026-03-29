@@ -7,3 +7,4 @@ chore: configure environment variables and .env.example
 chore: add GitHub Actions for CI pipeline
 docs: add detailed README with project structure and tech stack
 Authentication & Authorization
+feat(auth): implement email/password registration with validation
