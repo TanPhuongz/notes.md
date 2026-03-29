@@ -23,11 +23,12 @@ feat(user): implement user search with pagination
 fix(user): prevent email duplication on profile update
 refactor(user): improve user DTO and validation pipe
 Core Features 
-feat(project): create project entity with owner and members
+feat(project): create project entity with owner and member
 feat(task): implement task CRUD with status and priority
 feat(task): add task assignment and due date
-feat(dashboard): build overview dashboard with stats cards
+feat(dashboard): build overview dashboard with stats card
 feat(kanban): implement drag and drop kanban board
-feat(comment): add commenting system on tasks
-feat(attachment): support file attachments on tasks
+feat(comment): add commenting system on task
+feat(attachment): support file attachments on task
 perf(task): optimize task list query with proper indexing 
+Frontend Development
