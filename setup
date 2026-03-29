@@ -49,3 +49,4 @@ perf(api): optimize database querie with select field
 fix(api): handle validation error consistently across endpoint
 Testing & Quality
 test: add integration tests for project and task endpoints
+test(e2e): set up Playwright for critical user flows
