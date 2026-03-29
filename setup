@@ -61,3 +61,4 @@ feat(activity): log user activities with audit trail
 feat(export): support CSV and PDF export for task
 Performance & Optimization
 perf(frontend): implement React Server Components where possible
+perf(api): add Redis caching for frequently accessed data
