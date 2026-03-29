@@ -8,3 +8,4 @@ chore: add GitHub Actions for CI pipeline
 docs: add detailed README with project structure and tech stack
 Authentication & Authorization
 feat(auth): implement email/password registration with validation
+feat(auth): add login endpoint with JWT access + refresh token
