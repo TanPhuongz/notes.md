@@ -43,13 +43,13 @@ feat(notification): add real-time toast notification
 Backend Improvement
 refactor(api): migrate to NestJS modules and clean architecture
 chore(dep): update Prisma to latest and regenerate client
-feat(api): implement rate limiting with Redis
+feat(api): implement rate limiting with Redi
 feat(api): add request logging and correlation ID
 perf(api): optimize database querie with select field
 fix(api): handle validation error consistently across endpoint
 Testing & Quality
 test: add integration tests for project and task endpoint
-test(e2e): set up Playwright for critical user flows
+test(e2e): set up Playwright for critical user flow
 test: increase test coverage for auth module to 95%
 chore: configure Jest with ts-jest and coverage threshold
 Advanced Feature
@@ -61,7 +61,7 @@ feat(activity): log user activities with audit trail
 feat(export): support CSV and PDF export for task
 Performance & Optimization
 perf(frontend): implement React Server Component where possible
-perf(api): add Redis caching for frequently accessed data
+perf(api): add Redi caching for frequently accessed data
 perf(db): add composite indexes on task and project table
 refactor: migrate from class-validator to zod 
 Infrastructure & DevOp
@@ -70,3 +70,4 @@ chore(ci): add automated test and linting to GitHub Action
 build: configure production Dockerfile with multi-stage
 ci: add semantic-release and automatic changelog generation
 chore: update dependencie and fix security vulnerabilitie
+fix(auth): correct JWT expiration time calculation
