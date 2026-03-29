@@ -32,3 +32,4 @@ feat(comment): add commenting system on task
 feat(attachment): support file attachments on task
 perf(task): optimize task list query with proper indexing 
 Frontend Development
+feat(ui): create reusable form components with React Hook Form
