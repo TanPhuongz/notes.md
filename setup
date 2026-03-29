@@ -84,3 +84,4 @@ refactor(task): improve task service layer separation
 refactor: replace any types with proper TypeScript interface
 refactor(config): centralize all configuration in one module
 style: apply consistent code formatting across project
+Documentation & Misc
