@@ -32,10 +32,11 @@ feat(comment): add commenting system on task
 feat(attachment): support file attachments on task
 perf(task): optimize task list query with proper indexing 
 Frontend Development
-feat(ui): create reusable form components with React Hook Form
-feat(ui): implement dark mode with next-themes
+feat(ui): create reusable form component with React Hook Form
+feat(ui): implement dark mode with next-theme
 feat(layout): build responsive sidebar and top navigation
 feat(task): create task creation modal with rich form
 feat(kanban): integrate @dnd-kit for smooth drag & drop
 style(ui): improve button and card component consistency
-refactor(ui): extract common hooks (useDebounce, useLocalStorage)
+refactor(ui): extract common hook (useDebounce, useLocalStorage)
+feat(notification): add real-time toast notification
