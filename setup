@@ -60,3 +60,4 @@ feat(permission): add role-based access control (RBAC)
 feat(activity): log user activities with audit trail
 feat(export): support CSV and PDF export for task
 Performance & Optimization
+perf(frontend): implement React Server Components where possible
