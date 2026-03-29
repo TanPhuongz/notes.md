@@ -101,3 +101,4 @@ fix(db): add missing unique constraint on user email
 feat(api): implement soft delete for tasks and project
 refactor(auth): improve password hashing with Argon2
 test: add property-based testing for validation
+ci: add automated dependency vulnerability scanning
