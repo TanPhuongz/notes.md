@@ -79,6 +79,7 @@ fix(websocket): reconnect logic when connection drop
 fix(deps): resolve conflicting TypeScript version
 Refactoring & Code Quality
 refactor: extract common error handling middleware
-refactor(ui): convert class components to functional with hooks
+refactor(ui): convert class components to functional with hook
 refactor(task): improve task service layer separation
-refactor: replace any types with proper TypeScript interfaces
+refactor: replace any types with proper TypeScript interface
+refactor(config): centralize all configuration in one module
