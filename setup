@@ -93,3 +93,4 @@ feat(notification): implement in-app notification center
 feat(settings): create user preference settings page
 fix(settings): save theme preference to database
 feat(integration): add Slack webhook for task notification
+test(integration): add test for websocket task update
