@@ -95,3 +95,4 @@ fix(settings): save theme preference to database
 feat(integration): add Slack webhook for task notification
 test(integration): add test for websocket task update
 perf(frontend): lazy load heavy components with React.lazy
+build: upgrade to Next.js 15.1 with Turbopack improvement
