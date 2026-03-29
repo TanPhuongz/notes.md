@@ -25,3 +25,4 @@ refactor(user): improve user DTO and validation pipe
 Core Features 
 feat(project): create project entity with owner and members
 feat(task): implement task CRUD with status and priority
+feat(task): add task assignment and due date
