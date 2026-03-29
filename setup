@@ -21,3 +21,4 @@ feat(user): create user profile model and CRUD endpoints
 feat(user): add avatar upload with Cloudinary integration
 feat(user): implement user search with pagination
 fix(user): prevent email duplication on profile update
+refactor(user): improve user DTOs and validation pipes
