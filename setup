@@ -12,3 +12,4 @@ feat(auth): add login endpoint with JWT access + refresh token
 feat(auth): implement protected routes middleware
 feat(auth): add email verification flow with Nodemailer
 feat(auth): implement password reset with secure token
+feat(auth): add Google OAuth2 provider
