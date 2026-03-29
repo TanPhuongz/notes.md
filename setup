@@ -55,3 +55,4 @@ chore: configure Jest with ts-jest and coverage threshold
 Advanced Feature
 feat(analytics): add basic project activity analytics
 feat(websocket): integrate Socket.IO for real-time task updates
+feat(search): implement full-text search with PostgreSQL
