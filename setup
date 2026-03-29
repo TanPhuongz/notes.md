@@ -38,3 +38,4 @@ feat(layout): build responsive sidebar and top navigation
 feat(task): create task creation modal with rich form
 feat(kanban): integrate @dnd-kit for smooth drag & drop
 style(ui): improve button and card component consistency
+refactor(ui): extract common hooks (useDebounce, useLocalStorage)
