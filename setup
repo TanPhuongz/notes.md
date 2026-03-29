@@ -53,8 +53,9 @@ test(e2e): set up Playwright for critical user flows
 test: increase test coverage for auth module to 95%
 chore: configure Jest with ts-jest and coverage threshold
 Advanced Feature
-feat(analytics): add basic project activity analytics
-feat(websocket): integrate Socket.IO for real-time task updates
+feat(analytic): add basic project activity analytic
+feat(websocket): integrate Socket.IO for real-time task update
 feat(search): implement full-text search with PostgreSQL
 feat(permission): add role-based access control (RBAC)
 feat(activity): log user activities with audit trail
+feat(export): support CSV and PDF export for task
