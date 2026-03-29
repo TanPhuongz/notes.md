@@ -91,3 +91,4 @@ chore: remove unused dependencies and dead code
 chore: add .gitignore improvements for IDE files
 feat(notification): implement in-app notification center
 feat(settings): create user preference settings page
+fix(settings): save theme preference to database
