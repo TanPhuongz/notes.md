@@ -29,3 +29,4 @@ feat(task): add task assignment and due date
 feat(dashboard): build overview dashboard with stats cards
 feat(kanban): implement drag and drop kanban board
 feat(comment): add commenting system on tasks
+feat(attachment): support file attachments on tasks
