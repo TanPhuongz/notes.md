@@ -88,3 +88,4 @@ Documentation & Misc
 docs: update API documentation with new endpoint
 docs: add contribution guidelines and code of conduct
 chore: remove unused dependencies and dead code
+chore: add .gitignore improvements for IDE files
