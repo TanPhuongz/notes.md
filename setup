@@ -103,3 +103,4 @@ refactor(auth): improve password hashing with Argon2
 test: add property-based testing for validation
 ci: add automated dependency vulnerability scanning
 docs(api): document all error response format
+feat(landing): build public marketing landing page
