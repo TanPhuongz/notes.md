@@ -19,3 +19,4 @@ test(auth): add unit test for auth service and guard
 User Management
 feat(user): create user profile model and CRUD endpoints
 feat(user): add avatar upload with Cloudinary integration
+feat(user): implement user search with pagination
