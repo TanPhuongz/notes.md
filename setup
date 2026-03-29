@@ -71,3 +71,4 @@ build: configure production Dockerfile with multi-stage
 ci: add semantic-release and automatic changelog generation
 chore: update dependencie and fix security vulnerabilitie
 fix(auth): correct JWT expiration time calculation
+fix(task): prevent task deletion when it has comments
