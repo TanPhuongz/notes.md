@@ -43,3 +43,4 @@ feat(notification): add real-time toast notification
 Backend Improvement
 refactor(api): migrate to NestJS modules and clean architecture
 chore(deps): update Prisma to latest and regenerate client
+feat(api): implement rate limiting with Redis
