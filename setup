@@ -17,8 +17,9 @@ fix(auth): resolve refresh token rotation security issue
 refactor(auth): extract auth service and improve error handling
 test(auth): add unit test for auth service and guard
 User Management
-feat(user): create user profile model and CRUD endpoints
+feat(user): create user profile model and CRUD endpoint
 feat(user): add avatar upload with Cloudinary integration
 feat(user): implement user search with pagination
 fix(user): prevent email duplication on profile update
-refactor(user): improve user DTOs and validation pipes
+refactor(user): improve user DTO and validation pipe
+Core Features 
