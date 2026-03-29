@@ -74,3 +74,4 @@ fix(auth): correct JWT expiration time calculation
 fix(task): prevent task deletion when it has comments
 fix(ui): fix mobile menu not closing after navigation
 fix(kanban): resolve column reordering bug
+fix(api): handle null dueDate properly in task filter
