@@ -68,3 +68,4 @@ Infrastructure & DevOp
 chore(infra): set up PostgreSQL with proper volume mounting
 chore(ci): add automated tests and linting to GitHub Action
 build: configure production Dockerfile with multi-stage
+ci: add semantic-release and automatic changelog generation
