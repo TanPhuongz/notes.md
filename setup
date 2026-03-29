@@ -99,3 +99,4 @@ build: upgrade to Next.js 15.1 with Turbopack improvement
 chore: bump Prisma version and run db push
 fix(db): add missing unique constraint on user email
 feat(api): implement soft delete for tasks and project
+refactor(auth): improve password hashing with Argon2
