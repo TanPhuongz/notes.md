@@ -42,7 +42,8 @@ refactor(ui): extract common hook (useDebounce, useLocalStorage)
 feat(notification): add real-time toast notification
 Backend Improvement
 refactor(api): migrate to NestJS modules and clean architecture
-chore(deps): update Prisma to latest and regenerate client
+chore(dep): update Prisma to latest and regenerate client
 feat(api): implement rate limiting with Redis
 feat(api): add request logging and correlation ID
-perf(api): optimize database queries with select fields
+perf(api): optimize database querie with select field
+fix(api): handle validation error consistently across endpoint
