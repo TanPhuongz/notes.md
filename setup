@@ -36,3 +36,4 @@ feat(ui): create reusable form components with React Hook Form
 feat(ui): implement dark mode with next-themes
 feat(layout): build responsive sidebar and top navigation
 feat(task): create task creation modal with rich form
+feat(kanban): integrate @dnd-kit for smooth drag & drop
