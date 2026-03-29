@@ -52,3 +52,4 @@ test: add integration tests for project and task endpoint
 test(e2e): set up Playwright for critical user flows
 test: increase test coverage for auth module to 95%
 chore: configure Jest with ts-jest and coverage threshold
+Advanced Feature
