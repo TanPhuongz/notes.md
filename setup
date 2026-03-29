@@ -40,3 +40,4 @@ feat(kanban): integrate @dnd-kit for smooth drag & drop
 style(ui): improve button and card component consistency
 refactor(ui): extract common hook (useDebounce, useLocalStorage)
 feat(notification): add real-time toast notification
+Backend Improvement
