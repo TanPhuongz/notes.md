@@ -79,3 +79,4 @@ fix(websocket): reconnect logic when connection drop
 fix(deps): resolve conflicting TypeScript version
 Refactoring & Code Quality
 refactor: extract common error handling middleware
+refactor(ui): convert class components to functional with hooks
