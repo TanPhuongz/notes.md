@@ -53,3 +53,4 @@ test(e2e): set up Playwright for critical user flows
 test: increase test coverage for auth module to 95%
 chore: configure Jest with ts-jest and coverage threshold
 Advanced Feature
+feat(analytics): add basic project activity analytics
