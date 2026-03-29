@@ -26,3 +26,4 @@ Core Features
 feat(project): create project entity with owner and members
 feat(task): implement task CRUD with status and priority
 feat(task): add task assignment and due date
+feat(dashboard): build overview dashboard with stats cards
