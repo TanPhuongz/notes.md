@@ -47,3 +47,4 @@ feat(api): implement rate limiting with Redis
 feat(api): add request logging and correlation ID
 perf(api): optimize database querie with select field
 fix(api): handle validation error consistently across endpoint
+Testing & Quality
