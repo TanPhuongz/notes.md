@@ -123,3 +123,4 @@ chore: prepare for v1.0.0 release
 feat(v1): finalize core MVP features
 docs: update changelog for v1.0.0
 chore(release): bump version to 1.0.0
+fix: address security scan finding
