@@ -108,3 +108,4 @@ style(landing): polish hero section and CTA button
 chore: clean up console.logs and debug statement
 perf: implement pagination for large task list
 fix: resolve hydration mismatch in dark mode
+resolve hydration mismatch in dark mode
