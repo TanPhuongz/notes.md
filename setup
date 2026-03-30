@@ -116,3 +116,4 @@ test(e2e): add critical path tests for task creation flow
 docs: add architecture decision records (ADR)
 fix(ui): improve accessibility (a11y) for form input
 feat: add keyboard shortcuts for power user
+refactor: improve error boundary implementation
