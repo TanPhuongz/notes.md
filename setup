@@ -128,3 +128,4 @@ perf: reduce bundle size by 25% with code splitting
 refactor: apply domain-driven design principle to core module
 test: achieve 85% overall test coverage
 style: enforce stricter lint rules
+chore: remove legacy code and deprecated features
