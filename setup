@@ -120,3 +120,4 @@ refactor: improve error boundary implementation
 build: configure proper sourcemaps for production
 ci: add branch protection rules enforcement
 chore: prepare for v1.0.0 release
+feat(v1): finalize core MVP features
