@@ -113,3 +113,4 @@ refactor: migrate Redux to Zustand for state management
 feat(subscription): add basic Stripe integration skeleton
 chore(dep): update all packages to latest stable version
 test(e2e): add critical path tests for task creation flow
+docs: add architecture decision records (ADR)
