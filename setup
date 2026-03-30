@@ -117,3 +117,4 @@ docs: add architecture decision records (ADR)
 fix(ui): improve accessibility (a11y) for form input
 feat: add keyboard shortcuts for power user
 refactor: improve error boundary implementation
+build: configure proper sourcemaps for production
