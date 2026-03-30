@@ -126,3 +126,4 @@ chore(release): bump version to 1.0.0
 fix: address security scan finding
 perf: reduce bundle size by 25% with code splitting
 refactor: apply domain-driven design principle to core module
+test: achieve 85% overall test coverage
